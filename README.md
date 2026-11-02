@@ -2,7 +2,7 @@
 
 Python toolkit for quantitative analysis, spread arbitrage, and market-making backtesting on **Polymarket CLOB Order Book Datasets**.
 
-Powered by [PolyPulse Data Infrastructure](https://polypulse.ogs.biz.id) &bull; [Hugging Face Dataset](https://huggingface.co/datasets/OmGoStudio/polypulse-polymarket-sample)
+Powered by [PolyPulse Data Infrastructure](https://ogs.biz.id/polypulse) &bull; [Hugging Face Dataset](https://huggingface.co/datasets/OmGoStudio/polypulse-polymarket-sample)
 
 ---
 
@@ -36,7 +36,7 @@ python arbitrage_scanner.py
 | **1 Week Bundle** | 1Hz and 4Hz | 3,024,000+ rows | **$149 USD** | [Gumroad Checkout](https://ogshub.gumroad.com/l/axwvl) |
 | **1 Month Archive** | Master Grid | 10,000,000+ rows | **$299 USD** | [Gumroad Checkout](https://ogshub.gumroad.com/l/ogswmh) |
 
-Direct Web3 Polygon POS payment available at: [https://polypulse.ogs.biz.id](https://polypulse.ogs.biz.id)
+Direct Web3 Polygon POS payment available at: [https://ogs.biz.id/polypulse](https://ogs.biz.id/polypulse)
 
 ---
 MIT License &bull; OGS Sovereign Commercial Infrastructure

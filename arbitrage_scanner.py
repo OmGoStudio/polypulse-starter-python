@@ -41,7 +41,7 @@ def analyze_orderbook_feed(csv_path: str = "polypulse_sample.csv"):
     print(f"Detected {len(arb_opportunities)} ticks with >50 bps parity mispricing:")
     print(arb_opportunities[['sec', 'timestamp_utc', 'pm_token_up_bid', 'pm_token_down_bid', 'parity_edge_bps', 'maker_pair_cost']].head())
     print("=" * 65)
-    print("For continuous 3-Day (259k ticks) and 4Hz Vilnius feeds, visit: https://polypulse.ogs.biz.id")
+    print("For continuous 3-Day (259k ticks) and 4Hz Vilnius feeds, visit: https://ogs.biz.id/polypulse")
 
 if __name__ == "__main__":
     analyze_orderbook_feed()
